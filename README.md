@@ -8,7 +8,7 @@ Scott McEachern
 This repo contains the files for the Assignment 2;  "The VBA of Wall Street".  The assignment has three different files that are used to update the Excel document.  Outlined below are the steps to deploy.
 
 ### 1 Download Files
-Download the following VBA files from the GitHub repo:  
+Download the following VBA files from the GitHub repo; these files are located in the "Source" folder:  
 * GreatestTickerInfo.cls
 * TickerInfo.cls
 * YearlyStockCalculator.bas
