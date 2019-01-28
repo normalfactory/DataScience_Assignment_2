@@ -1,7 +1,10 @@
 # DataScience_Assignment_2
 January 28, 2019  
 Scott McEachern
-
+  
+  
+---
+#### Instructions
 This repo contains the files for the Assignment 2;  "The VBA of Wall Street".  The assignment has three different files that are used to update the Excel document.  Outlined below are the steps to deploy.
 
 ### 1 Download Files
@@ -30,4 +33,10 @@ Open the Marco dialog and run the the macro named “Start”.
 
 A message box is displayed when the processing is completed.  The processing has been found to take 364 to 430 seconds.  
 
-![Message box displayed when completed](https://github.com/normalfactory/DataScience_Assignment_2/blob/master/Instructions/CompletedMessage2.png)
+![Message box displayed when completed](https://github.com/normalfactory/DataScience_Assignment_2/blob/master/Instructions/CompletedMessage2.png) . 
+  
+  
+  
+---
+#### Results
+The screenshots of the different worksheets from Excel are within the repo; in the "Results" folder.  In addition to the images, the "Multiple_year_stock_Data_update.XLSX" has been added to the repo.  This document had the VBA code run within it to create the results; the VBA code is not included with the XLSX.
